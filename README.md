@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-  📩 A Template to host an MTA-STS Policy file on GitHub
+  📩 A copy of jpawlowski's template to host an MTA-STS Policy file on GitHub
   <br>
 </h1>
 
